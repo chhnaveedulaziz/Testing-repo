@@ -10,6 +10,7 @@ import { createAppContainer } from "react-navigation";
 import { createMaterialBottomTabNavigator } from "react-navigation-material-bottom-tabs";
 import ReelsPage from "./src/screens/Reels";
 
+
 class DiscoverScreen extends React.Component {
   render() {
     return (
