@@ -5,7 +5,7 @@ import Icon from "react-native-vector-icons/Ionicons";
 import OcticonsIcon from "react-native-vector-icons/Octicons";
 import AntDesignIcon from "react-native-vector-icons/AntDesign";
 import EvilIconsIcon from "react-native-vector-icons/EvilIcons";
-
+ 
 import { createAppContainer } from "react-navigation";
 import { createMaterialBottomTabNavigator } from "react-navigation-material-bottom-tabs";
 import ReelsPage from "./src/screens/Reels";
